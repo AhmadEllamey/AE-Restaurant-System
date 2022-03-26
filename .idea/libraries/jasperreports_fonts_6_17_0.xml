@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jasperreports-fonts-6.17.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/all_libs/jasperreports-fonts-6.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/all_libs/jasperreports-fonts-6.17.0.jar!/" recursive="false" />
+  </library>
+</component>

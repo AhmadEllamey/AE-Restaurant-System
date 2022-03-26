@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jasperreports-annotation-processors-6.17.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/all_libs/jasperreports-annotation-processors-6.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

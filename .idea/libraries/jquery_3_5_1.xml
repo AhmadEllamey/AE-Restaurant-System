@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jquery-3.5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/all_libs/jquery-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/all_libs/jquery-3.5.1.jar!/" recursive="false" />
+  </library>
+</component>

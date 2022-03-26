@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="batik-shared-resources-1.14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/all_libs/batik-shared-resources-1.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/all_libs/batik-shared-resources-1.14.jar!/" recursive="false" />
+  </library>
+</component>
